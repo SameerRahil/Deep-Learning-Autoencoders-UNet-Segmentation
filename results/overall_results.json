@@ -1,0 +1,68 @@
+{
+    "Task 1": {
+        "Train Loss (Last Epoch)": 0.01226507362216711,
+        "Test Loss (Last Epoch)": 0.012185810287296771,
+        "Train Loss (Minimum)": 0.01226507362216711,
+        "Test Loss (Minimum)": 0.012185810287296771
+    },
+    "Task 2": {
+        "Train Loss (Last Epoch)": 0.0054886116907000545,
+        "Test Loss (Last Epoch)": 0.005338935081660747,
+        "Train Loss (Minimum)": 0.0054886116907000545,
+        "Test Loss (Minimum)": 0.005338935081660747
+    },
+    "Task 3": {
+        "Train Loss (Last Epoch)": 0.02003809144993623,
+        "Test Loss (Last Epoch)": 0.019556718319654463,
+        "Train Loss (Minimum)": 0.02003809144993623,
+        "Test Loss (Minimum)": 0.019556718319654463
+    },
+    "Task 4": {
+        "Train Loss (Last Epoch)": 0.00966685673991839,
+        "Test Loss (Last Epoch)": 0.009548647959530353,
+        "Train Loss (Minimum)": 0.00966685673991839,
+        "Test Loss (Minimum)": 0.009480258344113826
+    },
+    "Task 5": {
+        "Train Loss (Last Epoch)": 0.6178462495994568,
+        "Train Accuracy (Last Epoch)": 0.78088,
+        "Train Loss (Minimum)": 0.6178462495994568,
+        "Train Accuracy (Maximum)": 0.78088,
+        "Test Loss (Original Dataset)": 0.7581073904037475,
+        "Test Accuracy (Original Dataset)": 0.7408000230789185,
+        "Test Precision (Original Dataset)": 0.7439654559638902,
+        "Test Recall (Original Dataset)": 0.7407999999999992,
+        "Test F1 Score (Original Dataset)": 0.7410569640960106,
+        "Test Loss (LAERecon Dataset)": 2.9984322414398195,
+        "Test Accuracy (LAERecon Dataset)": 0.28299999237060547,
+        "Test Precision (LAERecon Dataset)": 0.49066653129961735,
+        "Test Recall (LAERecon Dataset)": 0.2829999999999997,
+        "Test F1 Score (LAERecon Dataset)": 0.22306203862043864,
+        "Test Loss (CAERecon Dataset)": 1.5437250953674317,
+        "Test Accuracy (CAERecon Dataset)": 0.49900001287460327,
+        "Test Precision (CAERecon Dataset)": 0.6136041447943921,
+        "Test Recall (CAERecon Dataset)": 0.4989999999999995,
+        "Test F1 Score (CAERecon Dataset)": 0.502868925371445
+    },
+    "Task 6": {
+        "Train Loss (Last Epoch)": 0.021475150859852632,
+        "Train Accuracy (Last Epoch)": 0.9931166666666666,
+        "Train Loss (Minimum)": 0.021475150859852632,
+        "Train Accuracy (Maximum)": 0.9931166666666666,
+        "Test Loss (Original Dataset)": 0.02758905657213181,
+        "Test Accuracy (Original Dataset)": 0.9916999936103821,
+        "Test Precision (Original Dataset)": 0.9917593647342162,
+        "Test Recall (Original Dataset)": 0.9915934320754445,
+        "Test F1 Score (Original Dataset)": 0.9916594514067819,
+        "Test Loss (LAEDenoise Dataset)": 0.30290857302546503,
+        "Test Accuracy (LAEDenoise Dataset)": 0.9264000058174133,
+        "Test Precision (LAEDenoise Dataset)": 0.9283014260432234,
+        "Test Recall (LAEDenoise Dataset)": 0.9246371900150278,
+        "Test F1 Score (LAEDenoise Dataset)": 0.9254890794721412,
+        "Test Loss (CAEDenoise Dataset)": 0.09876883017327637,
+        "Test Accuracy (CAEDenoise Dataset)": 0.9746000170707703,
+        "Test Precision (CAEDenoise Dataset)": 0.974895663685934,
+        "Test Recall (CAEDenoise Dataset)": 0.9740659884225071,
+        "Test F1 Score (CAEDenoise Dataset)": 0.9743795961342563
+    }
+}
