@@ -6,8 +6,10 @@ Project 2 of CS 437 Deep Learning, LUMS, Spring 2026. The first notebook studies
 
 | Part | Notebook | What it covers |
 | --- | --- | --- |
-| 1. Linear and convolutional autoencoders | [`1_linear_and_conv_autoencoders.ipynb`](notebooks/1_linear_and_conv_autoencoders.ipynb) | Linear (LAE) and convolutional (CAE) autoencoders for reconstruction on CIFAR-10 and MNIST and for denoising noisy MNIST. Reconstructions are fed to a classifier to measure how much useful information survives. Results are saved to [`results/overall_results.json`](results/overall_results.json). |
-| 2. Autoencoders to U-Net (LiTS17) | [`2_autoencoders_to_unet_lits.ipynb`](notebooks/2_autoencoders_to_unet_lits.ipynb) | CT windowing and overlays, tumor slice selection, a slice dataset, convolutional and denoising autoencoder baselines, a segmentation autoencoder trained with cross-entropy and Dice, a U-Net with skip connections, and NIfTI export for viewing predictions in MITK. |
+| 1. Linear and convolutional autoencoders | [`1_linear_and_conv_autoencoders.ipynb`](notebooks/1_linear_and_conv_autoencoders.ipynb) ([nbviewer](https://nbviewer.org/github/SameerRahil/Deep-Learning-Autoencoders-UNet-Segmentation/blob/main/notebooks/1_linear_and_conv_autoencoders.ipynb)) | Linear (LAE) and convolutional (CAE) autoencoders for reconstruction on CIFAR-10 and MNIST and for denoising noisy MNIST. Reconstructions are fed to a classifier to measure how much useful information survives. Results are saved to [`results/overall_results.json`](results/overall_results.json). |
+| 2. Autoencoders to U-Net (LiTS17) | [`2_autoencoders_to_unet_lits.ipynb`](notebooks/2_autoencoders_to_unet_lits.ipynb) ([nbviewer](https://nbviewer.org/github/SameerRahil/Deep-Learning-Autoencoders-UNet-Segmentation/blob/main/notebooks/2_autoencoders_to_unet_lits.ipynb)) | CT windowing and overlays, tumor slice selection, a slice dataset, convolutional and denoising autoencoder baselines, a segmentation autoencoder trained with cross-entropy and Dice, a U-Net with skip connections, and NIfTI export for viewing predictions in MITK. |
+
+If GitHub cannot display a notebook, the nbviewer link next to it opens the same file.
 
 ## Results
 
